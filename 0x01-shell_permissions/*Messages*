@@ -1,0 +1,7 @@
+Loading /etc/emacs/site-start.d/00debian.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+Setting up indent for shell type bash
+Indentation variables are now local.
+Indentation setup for shell type bash
+completing-read-default: Command attempted to use minibuffer while in minibuffer
+C-x RET q is undefined

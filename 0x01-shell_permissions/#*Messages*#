@@ -1,0 +1,38 @@
+Loading /etc/emacs/site-start.d/00debian.el (source)...done
+For information about GNU Emacs and the GNU system, type C-h C-a.
+Setting up indent for shell type bash
+Indentation variables are now local.
+Indentation setup for shell type bash
+completing-read-default: Command attempted to use minibuffer while in minibuffer
+C-x RET q is undefined
+Wrote /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*
+user-error: No mark set in this buffer
+C-c C-x C-c is undefined
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) C-x
+Type C-h for help.
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) C-c
+Type C-h for help.
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) C-x
+Type C-h for help.
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) C-c
+Type C-h for help.
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) C-x
+Type C-h for help.
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) C-c
+Type C-h for help.
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) C-x
+Type C-h for help.
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) C-c
+Type C-h for help.
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/*Messages*? (y, n, !, ., q, C-r, d or C-h) n
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/2-groups? (y, n, !, ., q, C-r, d or C-h) 
+Save file /root/alx-system_engineering-devops/0x01-shell_permissions/2-groups? (y, n, !, ., q, C-r, d or C-h) RET
